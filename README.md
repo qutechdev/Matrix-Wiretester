@@ -3,7 +3,7 @@ This software is offered "As Is".
 
 Version V2.1 is only suitable for the latest hardware version.
 This version has the functionality to "calibrate" and "compensate" for offset voltages in the internal measuring amplifiers.
-- Added Offset compensation to measurements bewteen two channels for better accuracy at (low) resistance values.
+- Added Offset compensation to measurements between two channels for better accuracy at (low) resistance values.
 - Added Selftest mode for testing the main unit
 - Improved Serial communication protocol
 - Added more color coding and the option to whow measured values when a connection is considered "open"
