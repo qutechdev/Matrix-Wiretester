@@ -1,7 +1,11 @@
 This software is for the Qutech Maxtrix DC wiretester hardware
 This software is offered "As Is".
 
-Version V2.1 is only suitable for the latest hardware version.
+V2.11 16-02-2026
+- Resolved divide by zero error.
+- some small optimisations.
+
+Version V2.1 and higher is only suitable for the latest hardware version.
 This version has the functionality to "calibrate" and "compensate" for offset voltages in the internal measuring amplifiers.
 - Added Offset compensation to measurements between two channels for better accuracy at (low) resistance values.
 - Added Selftest mode for testing the main unit
