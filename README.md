@@ -1,7 +1,12 @@
 This software is for the Qutech Maxtrix DC wiretester hardware
 This software is offered "As Is".
 
+V2.12 05-03-2026
+- Resolved values not showing up in the matrix
+- Resolved showing wrong text at the left of the mtrix when changing ADC/NUX channel
+
 V2.11 16-02-2026
+- This version is obsolete, it contained an error resulting in values not showing in the matrix
 - Resolved divide by zero error.
 - some small optimisations.
 
